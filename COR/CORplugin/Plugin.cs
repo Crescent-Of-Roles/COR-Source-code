@@ -13,4 +13,3 @@ namespace CORplugin
         }
     }
 }
-//このPlugin.csはオリーブが書きました
