@@ -9,3 +9,14 @@ C:\Users\saepo\OneDrive\デスクトップ\プレテスト\CORplugin\bin\Debug\n
 C:\Users\saepo\OneDrive\デスクトップ\プレテスト\CORplugin\bin\Debug\netstandard2.1\CORplugin.pdb
 C:\Users\saepo\OneDrive\デスクトップ\プレテスト\CORplugin\obj\Debug\netstandard2.1\CORplugin.dll
 C:\Users\saepo\OneDrive\デスクトップ\プレテスト\CORplugin\obj\Debug\netstandard2.1\CORplugin.pdb
+C:\Users\saepo\OneDrive\デスクトップ\COR本物\COR-Source-code\bin\Debug\netstandard2.1\CORplugin.deps.json
+C:\Users\saepo\OneDrive\デスクトップ\COR本物\COR-Source-code\bin\Debug\netstandard2.1\CORplugin.dll
+C:\Users\saepo\OneDrive\デスクトップ\COR本物\COR-Source-code\bin\Debug\netstandard2.1\CORplugin.pdb
+C:\Users\saepo\OneDrive\デスクトップ\COR本物\COR-Source-code\obj\Debug\netstandard2.1\CORplugin.csproj.AssemblyReference.cache
+C:\Users\saepo\OneDrive\デスクトップ\COR本物\COR-Source-code\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\saepo\OneDrive\デスクトップ\COR本物\COR-Source-code\obj\Debug\netstandard2.1\CORplugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saepo\OneDrive\デスクトップ\COR本物\COR-Source-code\obj\Debug\netstandard2.1\CORplugin.AssemblyInfoInputs.cache
+C:\Users\saepo\OneDrive\デスクトップ\COR本物\COR-Source-code\obj\Debug\netstandard2.1\CORplugin.AssemblyInfo.cs
+C:\Users\saepo\OneDrive\デスクトップ\COR本物\COR-Source-code\obj\Debug\netstandard2.1\CORplugin.csproj.CoreCompileInputs.cache
+C:\Users\saepo\OneDrive\デスクトップ\COR本物\COR-Source-code\obj\Debug\netstandard2.1\CORplugin.dll
+C:\Users\saepo\OneDrive\デスクトップ\COR本物\COR-Source-code\obj\Debug\netstandard2.1\CORplugin.pdb
