@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qhq1azJblG6bYxrYktwvPwyxChFwyeNuaS8Mw8rtb6HAPdcniwGs2x/m+gn70cjaTtkT//cG88bNBkIh1Qkdcw==",
+  "dgSpecHash": "zvjUBTwkA3/x6eT1or8lotfLG7qg7Rt6cQp7gOi7alEHYrXJdhSqc8T20Z7EsM2vK9KH64GqB/WRagqCa7qQWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR本物\\COR-Source-code\\CORplugin.csproj",
+  "projectFilePath": "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR fork\\COR-Source-code\\CORplugin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saepo\\.nuget\\packages\\bepinex.core\\6.0.0-pre.1\\bepinex.core.6.0.0-pre.1.nupkg.sha512",
     "C:\\Users\\saepo\\.nuget\\packages\\bepinex.il2cpp\\6.0.0-pre.1\\bepinex.il2cpp.6.0.0-pre.1.nupkg.sha512",

@@ -2767,17 +2767,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR本物\\COR-Source-code\\CORplugin.csproj",
+      "projectUniqueName": "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR fork\\COR-Source-code\\CORplugin.csproj",
       "projectName": "CORplugin",
-      "projectPath": "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR本物\\COR-Source-code\\CORplugin.csproj",
+      "projectPath": "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR fork\\COR-Source-code\\CORplugin.csproj",
       "packagesPath": "C:\\Users\\saepo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR本物\\COR-Source-code\\obj\\",
+      "outputPath": "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR fork\\COR-Source-code\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR本物\\COR-Source-code\\NuGet.Config",
+        "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR fork\\COR-Source-code\\NuGet.Config",
         "C:\\Users\\saepo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
