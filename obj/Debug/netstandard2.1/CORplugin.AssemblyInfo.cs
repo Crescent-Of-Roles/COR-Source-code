@@ -10,13 +10,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CORplugin")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Guid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Guid")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("CORplugin")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("CORplugin")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CORplugin")]
+[assembly: System.Reflection.AssemblyProductAttribute("Guid")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Guid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment クラスによって生成されました。
