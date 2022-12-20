@@ -2,6 +2,12 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.1": {
+      "AmongUs.GameLibs.Steam/2022.10.25": {
+        "type": "package",
+        "build": {
+          "build/AmongUs.GameLibs.Steam.props": {}
+        }
+      },
       "BepInEx.Core/6.0.0-pre.1": {
         "type": "package",
         "dependencies": {
@@ -71,7 +77,7 @@
           }
         },
         "runtime": {
-          "lib/netstandard2.0/_._": {
+          "lib/netstandard2.0/0Harmony.dll": {
             "related": ".xml"
           }
         }
@@ -202,7 +208,16 @@
           }
         },
         "runtime": {
-          "lib/netstandard2.0/_._": {
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.dll": {
             "related": ".Mdb.pdb;.pdb;.Pdb.pdb;.Rocks.pdb"
           }
         }
@@ -225,7 +240,7 @@
           }
         },
         "runtime": {
-          "lib/netstandard2.0/_._": {
+          "lib/netstandard2.0/MonoMod.RuntimeDetour.dll": {
             "related": ".xml"
           }
         }
@@ -247,7 +262,7 @@
           }
         },
         "runtime": {
-          "lib/netstandard2.0/_._": {
+          "lib/netstandard2.0/MonoMod.Utils.dll": {
             "related": ".xml"
           }
         }
@@ -331,7 +346,7 @@
           }
         },
         "runtime": {
-          "lib/netstandard1.3/_._": {}
+          "lib/netstandard1.3/System.Collections.NonGeneric.dll": {}
         }
       },
       "System.Collections.Specialized/4.3.0": {
@@ -351,7 +366,7 @@
           }
         },
         "runtime": {
-          "lib/netstandard1.3/_._": {}
+          "lib/netstandard1.3/System.Collections.Specialized.dll": {}
         }
       },
       "System.ComponentModel/4.3.0": {
@@ -365,7 +380,7 @@
           }
         },
         "runtime": {
-          "lib/netstandard1.3/_._": {}
+          "lib/netstandard1.3/System.ComponentModel.dll": {}
         }
       },
       "System.ComponentModel.Primitives/4.3.0": {
@@ -381,7 +396,7 @@
           }
         },
         "runtime": {
-          "lib/netstandard1.0/_._": {}
+          "lib/netstandard1.0/System.ComponentModel.Primitives.dll": {}
         }
       },
       "System.ComponentModel.TypeConverter/4.3.0": {
@@ -409,7 +424,7 @@
           }
         },
         "runtime": {
-          "lib/netstandard1.5/_._": {}
+          "lib/netstandard1.5/System.ComponentModel.TypeConverter.dll": {}
         }
       },
       "System.Diagnostics.Debug/4.3.0": {
@@ -454,7 +469,11 @@
           }
         },
         "runtimeTargets": {
-          "runtimes/win/lib/netstandard1.3/_._": {
+          "runtimes/unix/lib/netstandard1.3/System.Globalization.Extensions.dll": {
+            "assetType": "runtime",
+            "rid": "unix"
+          },
+          "runtimes/win/lib/netstandard1.3/System.Globalization.Extensions.dll": {
             "assetType": "runtime",
             "rid": "win"
           }
@@ -486,7 +505,7 @@
           }
         },
         "runtime": {
-          "lib/netstandard1.3/_._": {}
+          "lib/netstandard1.3/System.IO.FileSystem.Primitives.dll": {}
         }
       },
       "System.Linq/4.3.0": {
@@ -504,7 +523,7 @@
           }
         },
         "runtime": {
-          "lib/netstandard1.6/_._": {}
+          "lib/netstandard1.6/System.Linq.dll": {}
         }
       },
       "System.Reflection/4.3.0": {
@@ -584,7 +603,7 @@
           }
         },
         "runtime": {
-          "lib/netstandard2.0/_._": {
+          "lib/netstandard2.0/System.Reflection.TypeExtensions.dll": {
             "related": ".xml"
           }
         }
@@ -683,7 +702,7 @@
           }
         },
         "runtime": {
-          "lib/netstandard1.3/_._": {}
+          "lib/netstandard1.3/System.Threading.dll": {}
         }
       },
       "System.Threading.Tasks/4.3.0": {
@@ -711,6 +730,93 @@
     }
   },
   "libraries": {
+    "AmongUs.GameLibs.Steam/2022.10.25": {
+      "sha512": "PWgkH/VvMlShVhZB8G432q0tnMaNVZrbIdbEMCZN/fETUlT/ch+qQj4PdTcZhPHREbnJHH3ijHxlca1d7QMBcQ==",
+      "type": "package",
+      "path": "amongus.gamelibs.steam/2022.10.25",
+      "files": [
+        ".nupkg.metadata",
+        "amongus.gamelibs.steam.2022.10.25.nupkg.sha512",
+        "amongus.gamelibs.steam.nuspec",
+        "build/AddressablesPlayAssetDelivery.dll",
+        "build/AmongUs.GameLibs.Steam.props",
+        "build/AppleAuth.dll",
+        "build/Assembly-CSharp-firstpass.dll",
+        "build/Assembly-CSharp.dll",
+        "build/Hazel.dll",
+        "build/IngameDebugConsole.Runtime.dll",
+        "build/Mono.Security.dll",
+        "build/Newtonsoft.Json.dll",
+        "build/QRCoder.dll",
+        "build/Rewired_Core.dll",
+        "build/Rewired_Windows.dll",
+        "build/Sentry.Microsoft.Bcl.AsyncInterfaces.dll",
+        "build/Sentry.System.Buffers.dll",
+        "build/Sentry.System.Collections.Immutable.dll",
+        "build/Sentry.System.Memory.dll",
+        "build/Sentry.System.Numerics.Vectors.dll",
+        "build/Sentry.System.Reflection.Metadata.dll",
+        "build/Sentry.System.Runtime.CompilerServices.Unsafe.dll",
+        "build/Sentry.System.Text.Encodings.Web.dll",
+        "build/Sentry.System.Text.Json.dll",
+        "build/Sentry.System.Threading.Tasks.Extensions.dll",
+        "build/Sentry.Unity.dll",
+        "build/Sentry.dll",
+        "build/System.Configuration.dll",
+        "build/System.Core.dll",
+        "build/System.Data.dll",
+        "build/System.Net.Http.dll",
+        "build/System.Numerics.dll",
+        "build/System.Runtime.Serialization.dll",
+        "build/System.Xml.Linq.dll",
+        "build/System.Xml.dll",
+        "build/System.dll",
+        "build/Unity.Addressables.dll",
+        "build/Unity.Analytics.DataPrivacy.dll",
+        "build/Unity.ResourceManager.dll",
+        "build/Unity.TextMeshPro.dll",
+        "build/UnityEngine.AIModule.dll",
+        "build/UnityEngine.AndroidJNIModule.dll",
+        "build/UnityEngine.AnimationModule.dll",
+        "build/UnityEngine.AssetBundleModule.dll",
+        "build/UnityEngine.AudioModule.dll",
+        "build/UnityEngine.CoreModule.dll",
+        "build/UnityEngine.DirectorModule.dll",
+        "build/UnityEngine.GridModule.dll",
+        "build/UnityEngine.IMGUIModule.dll",
+        "build/UnityEngine.ImageConversionModule.dll",
+        "build/UnityEngine.InputLegacyModule.dll",
+        "build/UnityEngine.InputModule.dll",
+        "build/UnityEngine.JSONSerializeModule.dll",
+        "build/UnityEngine.ParticleSystemModule.dll",
+        "build/UnityEngine.Physics2DModule.dll",
+        "build/UnityEngine.PhysicsModule.dll",
+        "build/UnityEngine.Purchasing.SecurityCore.dll",
+        "build/UnityEngine.Purchasing.dll",
+        "build/UnityEngine.ScreenCaptureModule.dll",
+        "build/UnityEngine.SharedInternalsModule.dll",
+        "build/UnityEngine.SpriteMaskModule.dll",
+        "build/UnityEngine.SpriteShapeModule.dll",
+        "build/UnityEngine.SubsystemsModule.dll",
+        "build/UnityEngine.TerrainModule.dll",
+        "build/UnityEngine.TextCoreModule.dll",
+        "build/UnityEngine.TextRenderingModule.dll",
+        "build/UnityEngine.TilemapModule.dll",
+        "build/UnityEngine.UI.dll",
+        "build/UnityEngine.UIElementsNativeModule.dll",
+        "build/UnityEngine.UIModule.dll",
+        "build/UnityEngine.UnityAnalyticsModule.dll",
+        "build/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+        "build/UnityEngine.UnityWebRequestModule.dll",
+        "build/UnityEngine.VFXModule.dll",
+        "build/UnityEngine.VRModule.dll",
+        "build/UnityEngine.VideoModule.dll",
+        "build/UnityEngine.XRModule.dll",
+        "build/UnityEngine.dll",
+        "build/io.sentry.unity.runtime.dll",
+        "build/mscorlib.dll"
+      ]
+    },
     "BepInEx.Core/6.0.0-pre.1": {
       "sha512": "oTLuVxw7C7z6sQRbdDPd0118afGto975zI5NR+kZaccnLfbYnriXYuUorKg9+KAmpbaQmfBLVoWEpLXf9l1lSA==",
       "type": "package",
@@ -2756,8 +2862,10 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
+      "AmongUs.GameLibs.Steam >= 2022.10.25",
       "BepInEx.IL2CPP >= 6.0.0-*",
-      "BepInEx.PluginInfoProps >= 1.*"
+      "BepInEx.PluginInfoProps >= 1.*",
+      "HarmonyX >= 2.10.0"
     ]
   },
   "packageFolders": {
@@ -2767,17 +2875,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR fork\\COR-Source-code\\CORplugin.csproj",
+      "projectUniqueName": "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR\\COR-Source-code\\CORplugin.csproj",
       "projectName": "Guid",
-      "projectPath": "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR fork\\COR-Source-code\\CORplugin.csproj",
+      "projectPath": "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR\\COR-Source-code\\CORplugin.csproj",
       "packagesPath": "C:\\Users\\saepo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR fork\\COR-Source-code\\obj\\",
+      "outputPath": "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR\\COR-Source-code\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR fork\\COR-Source-code\\NuGet.Config",
+        "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR\\COR-Source-code\\NuGet.Config",
         "C:\\Users\\saepo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -2807,6 +2915,10 @@
       "netstandard2.1": {
         "targetAlias": "netstandard2.1",
         "dependencies": {
+          "AmongUs.GameLibs.Steam": {
+            "target": "Package",
+            "version": "[2022.10.25, )"
+          },
           "BepInEx.IL2CPP": {
             "include": "Compile",
             "target": "Package",
@@ -2815,6 +2927,10 @@
           "BepInEx.PluginInfoProps": {
             "target": "Package",
             "version": "[1.*, )"
+          },
+          "HarmonyX": {
+            "target": "Package",
+            "version": "[2.10.0, )"
           }
         },
         "imports": [
@@ -2833,7 +2949,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

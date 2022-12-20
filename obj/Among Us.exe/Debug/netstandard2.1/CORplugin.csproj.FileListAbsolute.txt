@@ -1,0 +1,6 @@
+C:\Users\saepo\OneDrive\デスクトップ\COR\COR-Source-code\obj\Among Us.exe\Debug\netstandard2.1\CORplugin.csproj.AssemblyReference.cache
+C:\Users\saepo\OneDrive\デスクトップ\COR\COR-Source-code\obj\Among Us.exe\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\saepo\OneDrive\デスクトップ\COR\COR-Source-code\obj\Among Us.exe\Debug\netstandard2.1\CORplugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saepo\OneDrive\デスクトップ\COR\COR-Source-code\obj\Among Us.exe\Debug\netstandard2.1\CORplugin.AssemblyInfoInputs.cache
+C:\Users\saepo\OneDrive\デスクトップ\COR\COR-Source-code\obj\Among Us.exe\Debug\netstandard2.1\CORplugin.AssemblyInfo.cs
+C:\Users\saepo\OneDrive\デスクトップ\COR\COR-Source-code\obj\Among Us.exe\Debug\netstandard2.1\CORplugin.csproj.CoreCompileInputs.cache
