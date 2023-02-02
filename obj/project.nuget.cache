@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7NbitilzamslMXRN1Il9o/wo88nWCpaKjlXyFMvkh4Udyvf9hV/wGAEwA7q3feXNhqZVwJt3jyCWcu3+N2Olog==",
+  "dgSpecHash": "rN9gHUXCxJfaJy5lz7QMgk7113/rnbrAIdt7McEwejUpj/ZGNmJfyaKDcW26oD1rSeDaG9n7SgIf2bYdsoFUMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\saepo\\OneDrive\\デスクトップ\\COR\\COR-Source-code\\CORplugin.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\saepo\\.nuget\\packages\\amongus.gamelibs.steam\\2022.10.25\\amongus.gamelibs.steam.2022.10.25.nupkg.sha512",
+    "C:\\Users\\saepo\\.nuget\\packages\\amongus.gamelibs.steam\\2022.12.14\\amongus.gamelibs.steam.2022.12.14.nupkg.sha512",
     "C:\\Users\\saepo\\.nuget\\packages\\bepinex.core\\6.0.0-pre.1\\bepinex.core.6.0.0-pre.1.nupkg.sha512",
     "C:\\Users\\saepo\\.nuget\\packages\\bepinex.il2cpp\\6.0.0-pre.1\\bepinex.il2cpp.6.0.0-pre.1.nupkg.sha512",
     "C:\\Users\\saepo\\.nuget\\packages\\bepinex.il2cpp.tlsadapter\\1.0.1\\bepinex.il2cpp.tlsadapter.1.0.1.nupkg.sha512",

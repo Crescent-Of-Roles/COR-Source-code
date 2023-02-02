@@ -49,7 +49,7 @@
           "dependencies": {
             "AmongUs.GameLibs.Steam": {
               "target": "Package",
-              "version": "[2022.10.25, )"
+              "version": "[2022.12.14, )"
             },
             "BepInEx.IL2CPP": {
               "include": "Compile",
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
